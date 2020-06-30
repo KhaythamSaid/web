@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonp" type="id">buttonp</item>
+    <item name="output" type="id">output</item>
+    <item name="num0" type="id">num0</item>
+    <item name="buttonC" type="id">buttonC</item>
+    <item name="num1" type="id">num1</item>
+    <item name="num2" type="id">num2</item>
+    <item name="num3" type="id">num3</item>
+    <item name="num4" type="id">num4</item>
+    <item name="num5" type="id">num5</item>
+    <item name="num6" type="id">num6</item>
+    <item name="num7" type="id">num7</item>
+    <item name="num8" type="id">num8</item>
+    <item name="num9" type="id">num9</item>
+    <item name="buttonq" type="id">buttonq</item>
+    <item name="buttonM" type="id">buttonM</item>
+    <item name="buttontm" type="id">buttontm</item>
+    <item name="buttonD" type="id">buttonD</item>
+</resources>
